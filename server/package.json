@@ -45,7 +45,7 @@
   },
   "dependencies": {
     "@octokit/rest": "^17.0.0",
-    "apollo-server": "^2.2.3",
+    "apollo-server": "^2.14.2",
     "apollo-server-express": "^2.2.3",
     "bcrypt": "^3.0.2",
     "body-parser": "^1.19.0",
