@@ -47,7 +47,7 @@
     "@octokit/rest": "^17.0.0",
     "apollo-server": "^2.2.3",
     "apollo-server-express": "^2.2.3",
-    "bcrypt": "^3.0.2",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "dataloader": "^1.4.0",
